@@ -1,6 +1,4 @@
-# FlakeScanner
-
-## FlakyAppRepo Suite
+# FlakyAppRepo Suite
 
 The subjects in FlakyAppRepo suite are listed below.
 
