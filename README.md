@@ -1,4 +1,4 @@
-# FlakyAppRepo Suite
+# FlakyAppRepo
 
 The subjects in FlakyAppRepo suite are listed below.
 
