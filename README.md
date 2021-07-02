@@ -38,8 +38,6 @@ The subjects in FlakyAppRepo suite are listed below.
 | Surveyor | 13.3.0 | 290.4k | 13 | Communication|https://github.com/rapidpro/surveyor|
 | WordPress | 14.2-rc-2 | 461.7k | 2.3k | Productivity|https://github.com/wordpress-mobile/WordPress-Android|
 
-## Test names for Flaky Tests detected by FlakeScanner
-https://github.com/FlakyTest/FlakyTests/blob/main/Supplementary_material_for_FlakeScanner.pdf
 
 ## FlakeScanner
 
