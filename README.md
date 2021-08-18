@@ -41,35 +41,6 @@ The subjects in FlakyAppRepo suite are listed below.
 
 ## FlakeScanner
 
-FlakeScanner is a tool to detect flaky tests for Android apps. The tool is released as a binary file. We will open source FlakeScanner after the publication.
+FlakeScanner is a tool to detect flaky tests for Android apps. Its source code is released at: https://github.com/AndroidFlakyTest/FlakeScanner 
 
-### Requirement
-- java 11
-- scala 2.13
-- adb (Android Debug Bridge)
-
-### Usage
-
-To use, download the FlakeScanner.jar file. Then, use `java` to execute it with appropriate flags.
-
-```
-Usage: FlakeScanner [options] appName testPackage apkPath testRunnerClsPath testClassPath testMethodPath
-
-  --adbPath <value>
-  --debug
-  --disable-ddm-log
-  --apkInstallOpts <value>
-  --deviceName <value>     Use default device if not supplied
-  --max-runs <value>
-  --config-from-file <value>
-  --test-hang-timeout <value>
-  --given-passed <value>
-  --strategy <value>
-  appName
-  testPackage
-  apkPath
-  testRunnerClsPath
-  testClassPath
-  testMethodPath
-```
 
